@@ -1,0 +1,14 @@
+{
+  "name": "webgl-shader",
+  "repo": "enricomarino/webgl-shader",
+  "version": "0.1.0",
+  "description": "WebGL Shader component",
+  "keywords": ["webgl", "shader"],
+  "scripts": ["index.js"],
+  "dependencies": {
+  },
+  "development": {
+    "component/assert": "*"
+  },
+  "license": "MIT"
+}
